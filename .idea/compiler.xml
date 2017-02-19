@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mycollab-app-community" />
+        <module name="mycollab-caching" />
+        <module name="mycollab-client-api" />
+        <module name="mycollab-config" />
+        <module name="mycollab-core" />
+        <module name="mycollab-dao" />
+        <module name="mycollab-esb" />
+        <module name="mycollab-jackrabbit" />
+        <module name="mycollab-localization" />
+        <module name="mycollab-migration" />
+        <module name="mycollab-mobile" />
+        <module name="mycollab-reporting" />
+        <module name="mycollab-scheduler" />
+        <module name="mycollab-scheduler-community" />
+        <module name="mycollab-server-runner" />
+        <module name="mycollab-services" />
+        <module name="mycollab-services-community" />
+        <module name="mycollab-servlet" />
+        <module name="mycollab-test" />
+        <module name="mycollab-ui" />
+        <module name="mycollab-web" />
+        <module name="mycollab-web-community" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mycollab-app-community" target="1.5" />
+      <module name="mycollab-caching" target="1.5" />
+      <module name="mycollab-client-api" target="1.5" />
+      <module name="mycollab-config" target="1.5" />
+      <module name="mycollab-core" target="1.5" />
+      <module name="mycollab-dao" target="1.5" />
+      <module name="mycollab-deployer-community" target="1.5" />
+      <module name="mycollab-esb" target="1.5" />
+      <module name="mycollab-jackrabbit" target="1.5" />
+      <module name="mycollab-localization" target="1.5" />
+      <module name="mycollab-migration" target="1.5" />
+      <module name="mycollab-mobile" target="1.5" />
+      <module name="mycollab-parent-community" target="1.5" />
+      <module name="mycollab-reporting" target="1.5" />
+      <module name="mycollab-scheduler" target="1.5" />
+      <module name="mycollab-scheduler-community" target="1.5" />
+      <module name="mycollab-server-runner" target="1.5" />
+      <module name="mycollab-services" target="1.5" />
+      <module name="mycollab-services-community" target="1.5" />
+      <module name="mycollab-servlet" target="1.5" />
+      <module name="mycollab-test" target="1.5" />
+      <module name="mycollab-ui" target="1.5" />
+      <module name="mycollab-web" target="1.5" />
+      <module name="mycollab-web-community" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
